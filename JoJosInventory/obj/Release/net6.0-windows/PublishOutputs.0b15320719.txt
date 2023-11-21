@@ -1,0 +1,11 @@
+C:\Users\vlarh\source\repos\JoJosInventory\JoJosInventory\bin\Release\net6.0-windows\publish\JoJosInventory.exe
+C:\Users\vlarh\source\repos\JoJosInventory\JoJosInventory\bin\Release\net6.0-windows\publish\JoJosInventory.dll
+C:\Users\vlarh\source\repos\JoJosInventory\JoJosInventory\bin\Release\net6.0-windows\publish\JoJosInventory.deps.json
+C:\Users\vlarh\source\repos\JoJosInventory\JoJosInventory\bin\Release\net6.0-windows\publish\JoJosInventory.runtimeconfig.json
+C:\Users\vlarh\source\repos\JoJosInventory\JoJosInventory\bin\Release\net6.0-windows\publish\JoJosInventory.pdb
+C:\Users\vlarh\source\repos\JoJosInventory\JoJosInventory\bin\Release\net6.0-windows\publish\System.Data.SqlClient.dll
+C:\Users\vlarh\source\repos\JoJosInventory\JoJosInventory\bin\Release\net6.0-windows\publish\runtimes\win-arm64\native\sni.dll
+C:\Users\vlarh\source\repos\JoJosInventory\JoJosInventory\bin\Release\net6.0-windows\publish\runtimes\win-x64\native\sni.dll
+C:\Users\vlarh\source\repos\JoJosInventory\JoJosInventory\bin\Release\net6.0-windows\publish\runtimes\win-x86\native\sni.dll
+C:\Users\vlarh\source\repos\JoJosInventory\JoJosInventory\bin\Release\net6.0-windows\publish\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\vlarh\source\repos\JoJosInventory\JoJosInventory\bin\Release\net6.0-windows\publish\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
