@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\Ruben\Source\Repos\Jim2\JoJosInventory\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="Controls\BaseMaterial.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Froms\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Froms\MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Froms\ModalAddNewBaseMaterial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Froms\recoveryPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
